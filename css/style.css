@@ -59,7 +59,7 @@ div{
     border-left: 5px solid white;
 }
 
-.blue, h2, p{
+.blue{
     background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
@@ -67,6 +67,8 @@ div{
     border-top: 2px;
     color: #C4C4C4;
 }
+
+
 
 /*div.yellow, p{
     background-color: #FFFF00;
