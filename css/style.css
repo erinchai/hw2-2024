@@ -43,13 +43,13 @@ div{
     border: 3px solid white;
 }
 
-/*div.introduction{
+div.introduction{
     border-radius: 15px;
     margin-top: 15px;
     line-height: 2;
 }
 
-div.red{
+/*div.red{
     background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
