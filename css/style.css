@@ -32,7 +32,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     width: 250px;
-    border-style: dashed;
+    border: 10px dashed;
 
 }
 
@@ -42,12 +42,12 @@ div{
     border: 3px solid white;
 }
 
-div.introduction{
+/*div.introduction{
     border-radius: 15px;
     margin-top: 15px;
     line-height: 2;
 }
-/*
+
 div.red{
     background-color: #FF0000;
     text-align: right;
@@ -94,4 +94,4 @@ footer{
 footer p{
     font-size: 20px;
     padding: 15px 15px 15px 0px;
-}*/
+}
