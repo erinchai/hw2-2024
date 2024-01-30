@@ -83,12 +83,14 @@ div{
     color: #707070;
 }
 
-div.green{
+.green{
     background-color:#00EB00;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px;
     border-top: 2px;
+    border-right: 5px;
+    border-bottom: 0px;
+    border-left: 0px;
 }
 
 footer{
